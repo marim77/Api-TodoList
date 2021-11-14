@@ -1,0 +1,14 @@
+{
+  "name": "api-todo",
+  "version": "1.0.0",
+  "description": "Api para to do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Mari Marques",
+  "license": "ISC"
+}
